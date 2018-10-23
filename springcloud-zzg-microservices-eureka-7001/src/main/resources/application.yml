@@ -1,0 +1,7 @@
+spring:
+   application:
+    name: springcloud-zzg-microservices-eureka-7001
+      
+ 
+
+ 

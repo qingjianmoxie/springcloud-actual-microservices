@@ -1,0 +1,3 @@
+spring:
+   application:
+    name: springcloud-zzg-microservices-zuul-gateway
